@@ -9,7 +9,7 @@ const Home = () => {
 
   return (
     <Layout>
-      {(isAuthenticated && user) ? (
+      {user ? (
         <div>
           <h2 className="text-2xl mb-4">Welcome {user.email}.</h2>
           <PostList />

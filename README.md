@@ -55,4 +55,8 @@ To make full use of the sample app, you can now set up the appropriate backend. 
 
 ### Try it out
 
-Open http://localhost:3000 to test the app.
+Run the following command and open http://localhost:3000 in your browser.
+
+```sh
+npm start
+```
