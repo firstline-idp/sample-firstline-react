@@ -12,7 +12,7 @@ This is a sample React app with fully fledged authentication using Firstline.
 
 ### Setup Firstline Application & API
 1. Follow the [Quick setup](https://docs.firstline.sh/quicksetup) to configure a Firstline Application.
-2. Add a Firstline API as shown in [Secure API](https://docs.firstline.sh/secure-api).
+2. Add a Firstline API as shown in [Secure API](https://docs.firstline.sh/secureapi).
 
 **Important:** Don't forget to configure the Application URIs.
 
